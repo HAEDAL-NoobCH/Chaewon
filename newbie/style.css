@@ -1,0 +1,18 @@
+h2 {
+    color: blue;
+}
+
+#first {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+#ex {
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+}
